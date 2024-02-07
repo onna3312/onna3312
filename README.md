@@ -2,10 +2,7 @@ Hello!
 I am a beginner level game and web developer, currently going through The Odin Project.
 
 My skills:
-HTML
-CSS
-JS
-Godot (GDScript)
+HTML, cSS, JS, Godot (GDScript)
 
 <!--
 **onna3312/onna3312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
